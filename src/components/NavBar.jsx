@@ -9,7 +9,11 @@ const NavBar = () => {
   return (
     <Navbar bg="info" expand="lg">
       <Container>
-        <Navbar.Brand href="#home">BasStore</Navbar.Brand>
+        <Navbar.Brand href="#home">
+          
+          <h1>BasStore</h1>
+        
+        </Navbar.Brand>
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">
           <Nav className="me-auto">
