@@ -1,25 +1,33 @@
-import React from 'react'
-import Button from 'react-bootstrap/Button';
-import Card from 'react-bootstrap/Card';
+import React from "react"
+import { Link } from "react-router-dom";
+import Card from "react-bootstrap/Card";
+import Button from "react-bootstrap/Button";
 
+const Item = ({ id, title, description, precio, stock, thumbnailUrl, category }) => {
+    return (
+        <div key={id}>
 
-const Item = () => {
-  return (
-    <Card style={{ width: '16rem' }}>
-      <Card.Img variant="top" src="https://www.ecomusicweb.com/wp-content/uploads/2018/09/preview_1.jpg" />
-      <Card.Body>
-        <Card.Title>Fender Precision Bass</Card.Title>
-        <Card.Text>
-          <h4>Características</h4>
-          Cuerpo de aliso con acabado brillante.
-          Una pastilla Split-coil de la Serie Player en el centro.Control máster de volumen y tono.
-          Mástil con perfil "C moderna".
-          Diapasón con radio de 9,5”
-        </Card.Text>
-        <Button variant="primary">Agregar al carrito</Button>
-      </Card.Body>
-    </Card>
-  );
+            <Card>
+                <Card.Img variant="top" src={thumbnailUrl} />
+                <Card.Body>
+                    <Card.Title>{title}</Card.Title>
+                    <Card.Text>
+                        <span>Stock: {stock}</span>
+                    </Card.Text>
+                    <Card.Text>
+                        <span>Cuerdas: {category}</span>
+                    </Card.Text>
+                    <Link to={`/item/${id}`}><Button variant="primary">Ver más</Button></Link>
+                </Card.Body>
+            </Card>
+
+        </div>
+    )
 }
 
-export default Item;
+export default Item
+
+
+
+
+

@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "title": "Fender Jazz Bass",
+        "description": "Bajo eléctrico de 4 cuerdas de corte doble. Dos pastillas Vintage Noiseless ™ Jazz Bass (medio y puente). Ecualizador de tres bandas con agudos, medios y bajos de refuerzo / corte; interruptor activo / pasivo. Puente HiMass ™ con cuatro monturas para aumentar el ataque y el sustain. Placa asimétrica del cuello de cuatro pernos. Incluye funda deluxe",
+        "precio": 650000,
+        "stock": 10,
+        "thumbnailUrl": "https://ar.xprostore.com/image/cache/data/imagenesweb/jazz-bass-s-1200x1200.jpg",
+        "category": "4 cuerdas"
+    },
+    {
+        "id": 2,
+        "title": "Fender Precision Bass",
+        "description": "Cuerpo de aliso con acabado brillante. Una pastilla Split-coil de la Serie Player en el centro. Control máster de volumen y tono. Mástil con perfil (C moderna). Diapasón con radio de 9,5”.",
+        "precio": 550000,
+        "stock": 2,
+        "thumbnailUrl": "https://www.ecomusicweb.com/wp-content/uploads/2018/09/preview_1.jpg",
+        "category": "4 cuerdas"
+    },
+    {
+        "id": 3,
+        "title": "Fender Precision Bass 5",
+        "description": "Mástil de arce tintado con perfil en C. Diapasón de palosanto o arce con 20 trastes medium jumbo. Pastillas de bobina simple modernas. Cavidades del cuerpo apantalladas. Puente de estilo vintage. Logotipo estilo años 70 en la pala.",
+        "precio": 580000,
+        "stock": 8,
+        "thumbnailUrl": "https://cf1.zzounds.com/media/productmedia/fit,2018by3200/quality,85/adga-ccd2a038cd475e9d9ceb1df229bda140.jpg",
+        "category": "5 cuerdas"
+    },
+    {
+        "id": 4,
+        "title": "Squier Jazz Bass 70's Vintage Modified",
+        "description": "Serie Vintage modificada. Cuerpo de agathis. Mástil de arce en forma de C. Diapasón de arce. Tinte Vintage thomann brillante. 20 trastes. 2 pastillas de bobina simple diseñadas por Fender. Golpeador negro. Escala: 864mm 34 pulgadas. Ancho de la cejilla 38 pulgadas.",
+        "precio": 220000,
+        "stock": 7,
+        "thumbnailUrl": "https://media.justmusic.de/Artikelbilder/Shopsystem/1000px_V2/10047554_1.jpg",
+        "category": "4 cuerdas"
+    },
+    {
+        "id": 5,
+        "title": "Squier Jazz Bass Classic vibe 60",
+        "description": "Cuerpo de aliso macizo. Mástil de arce con tintado vintage, perfil posterior en C y diapasón de palosanto de 20 trastes. Dos pastillas custom Jazz Bass de bobinado simple. Puente HiMass™ con selletas de latón. Golpeador de concha de tortuga apoyadedos.",
+        "precio": 280000,
+        "stock": 1,
+        "thumbnailUrl": "https://compasuno.com.ar/wp-content/uploads/2022/04/D_670294-MLA49548016072_042022-F.jpg",
+        "category": "4 cuerdas"
+    },
+    {
+        "id": 6,
+        "title": "Ibanez Gio Gsr 205 Active",
+        "description": "Cuerpo en araucaria Agathis. Mástil GSR4 de arce. Diapasón de Palo de Rosa. 22 trastes Medium Jumbo. Escala: 864mm. Ancho de cejilla: 41 mm. Puente B15 (Distancia de cuerdas: 16,5 mm). Hardware En Negro. Micrófono DXS-1 en mástil. Micrófono DXS-2 en puente. Ecualizador activo Phat II EQ/Boost. 2 controles de volumen, 1 control de tono, ecualizador Phat II.",
+        "precio": 180000,
+        "stock": 6,
+        "thumbnailUrl": "https://bairesrocks.vteximg.com.br/arquivos/ids/212286/954377-MLA31638316785_072019-F.jpg?v=637313849149130000",
+        "category": "5 cuerdas"
+    }
+]
